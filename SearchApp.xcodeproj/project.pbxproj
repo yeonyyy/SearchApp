@@ -136,7 +136,7 @@
 		6FEB9A252B31AAD2008A0483 = {
 			isa = PBXGroup;
 			children = (
-				6FEB9A302B31AAD2008A0483 /* SampleProject */,
+				6FEB9A302B31AAD2008A0483 /* SearchApp */,
 				6FEB9A2F2B31AAD2008A0483 /* Products */,
 				874068D5BBA81C4C1226D57B /* Pods */,
 				71612204C871FD5602AF281E /* Frameworks */,
@@ -151,7 +151,7 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
-		6FEB9A302B31AAD2008A0483 /* SampleProject */ = {
+		6FEB9A302B31AAD2008A0483 /* SearchApp */ = {
 			isa = PBXGroup;
 			children = (
 				6FEB9A312B31AAD2008A0483 /* AppDelegate.swift */,
@@ -164,7 +164,6 @@
 				6FEB9A3A2B31AAD4008A0483 /* Assets.xcassets */,
 				6FEB9A3C2B31AAD4008A0483 /* LaunchScreen.storyboard */,
 			);
-			name = SampleProject;
 			path = SearchApp;
 			sourceTree = "<group>";
 		};
